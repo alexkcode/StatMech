@@ -1,0 +1,5 @@
+A note on the physics of the cycles and its behavior as shown in the plot:
+The particles on long cycles have essentially equivalent behavior to particles at 
+inverse temperature k beta with k > cycle_length. Looking at the integrals of
+density matrics of these particles this is directly related to the physical
+origin of the convolution property of density matrices.

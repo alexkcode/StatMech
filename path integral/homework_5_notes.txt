@@ -1,0 +1,17 @@
+A2
+
+1.	Yes
+2. 	$$a_00 = 1, a_10 = 2, a_01 = 3, a_11 = 4, a_12 = 5, a_22 = 6$$
+3. 	It is the dot product.  In this case it is just the matrix product of a and b in that
+	order. c = [[22 28],[49 64]]
+4. 	d = [[ 9 12 15],[19 26 33],[29 40 51]]
+	a.b == c != d == b.a
+5. 	e = [[ 18  24  30],[ 38  52  66],[ 58  80 102]]
+	'e' is the matrix of matrix of b.a times the matrix of b.a, e.g. $$c = (b\cdot a)^2 = (b\cdot a)\times(b\cdot a)$$
+6. 	The trace is computed via the diag().sum() method (and submethod) of the numpy package.
+	In mathematical terms you take the diagonal elements of the matrix, e.g. 'i=j' where 'i' is the row number and 'j' is the column number, and sum them.
+	trace(c) = g = 86
+
+A3
+
+1. 

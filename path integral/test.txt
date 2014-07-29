@@ -1,0 +1,9 @@
+Z_computed = 0.9025336341 | Z_actual =  1.039043461 
+Z_computed = 0.4446041609 | Z_actual = 0.5672963286 
+Z_computed =  0.234318274 | Z_actual = 0.4184929639 
+Z_computed = 0.1292366233 | Z_actual = 0.3463478202 
+Z_computed = 0.07329587694 | Z_actual = 0.3035396709 
+Z_computed = 0.04224562269 | Z_actual = 0.2749599789 
+Z_computed = 0.02456972144 | Z_actual = 0.2543596647 
+Z_computed = 0.01436034556 | Z_actual = 0.2386962357 
+Z_computed = 0.008415753399 | Z_actual = 0.2263111406 
